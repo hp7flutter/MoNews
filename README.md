@@ -1,6 +1,8 @@
 # MoNews
 Social network and online news media
 
+<h2 style="color: lightBlue">Flutter</h2>
+
 <h3>Light Mode</h3>
 <img width="428" height="926" alt="iPhone 13 Pro Max - 1" src="https://github.com/user-attachments/assets/7bb820cb-8e8c-42f4-a1c1-f028a315e258" />
 <img width="428" height="926" alt="iPhone 13 Pro Max - 4" src="https://github.com/user-attachments/assets/b285fba6-dee3-4a67-89c8-fbbe7ba22625" />
